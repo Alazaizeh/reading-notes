@@ -8,8 +8,8 @@ Markdown allows you to write using an easy-to-read, easy-to-write plain text for
 
 ## Example :
 
-Who to make ` [x] Done` 
-to
+How to change ` [x] Done` 
+into
 - [x] Done
 
 ## Basic Syntax
