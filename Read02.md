@@ -11,7 +11,7 @@ Git is the most commonly used version control system. Git tracks the changes you
 ***git clone [url]***
 This command is used to obtain a repository from an existing URL.
 
-## Commands With Examples :
+## Commands With Syntax :
 
 | Command | Syntax |
 | ----------- | ----------- |
