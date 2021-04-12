@@ -1,7 +1,7 @@
 # The Growth Mindset
 
 
-![alt text](https://i.ibb.co/9WKv8JZ/9f524-brain-2062057-960-720.jpg)
+![alt text](https://i.ibb.co/j3GbJW0/9f524-brain-2062057-960-720-removebg-preview.png)
 
 ## How i remind myself to be in a growth mindset ?
 
