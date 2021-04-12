@@ -8,7 +8,8 @@ The individuals who believe their talents can be developed through hard work, go
 - I try different learning tactics :book:
 - I place effort before talent 	:muscle:
 - I use the word “**yet**” :checkered_flag:
-
+## Why Growth Mindset?
+ a growth mindset can help you recover from illness because you believe that you can do something about the illness. They can help you achieve in sport, at work and can also help you grow and develop in relationships.
 ## Fixed Mindset Vs Groth Mindset 
 
 | Fixed Mindset | Groth Mindset |
@@ -17,3 +18,9 @@ The individuals who believe their talents can be developed through hard work, go
 | See effort as pointless | See effort as leading to mastery |
 | Hides flaws | Views failure as an opportunity |
 
+
+## Remember
+- [x] Find the optimistic viewpoint in a negative situation.
+- [x] Cultivate and live in a positive environment.
+- [x] Don’t make a mountain out of a molehill.
+- [x] Change ~~impossible~~ to possible.
