@@ -23,6 +23,5 @@ This command is used to obtain a repository from an existing URL.
 
 
 ## Helpful resources:
-- [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+- [Documentation](https://git-scm.com/docs)
