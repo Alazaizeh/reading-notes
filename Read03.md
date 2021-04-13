@@ -48,14 +48,14 @@ Browsers do not display the HTML tags, but use them to interpret the content of 
 
 | **Tags** | **Use** |
 | ----------- | ----------- |
-| <HTML>. . . </HTML> | The entire HTML document |
-| <HEAD> . . . </HEAD> | 	The head of the HTML document |
-| <BODY> . . . </BODY> | All the other content in the HTML document |
-| <TITLE> . . . </TITLE> | 	The title of the document |
-| <H1> . . . </H1> | First-level heading large text size |
-| <H6> . . . </H6> | Sixth-level heading small text size |
-|<P> . . . </P>|**Paragraph** You need to use this tag to make a new paragraph.|
-|<BR>|**Line Break** This tag will show a blank line.|
+| `<HTML>. . . </HTML>` | The entire HTML document |
+| `<HEAD> . . . </HEAD>` | 	The head of the HTML document |
+| `<BODY> . . . </BODY>` | All the other content in the HTML document |
+| `<TITLE> . . . </TITLE>` | 	The title of the document |
+| `<H1> . . . </H1> `| First-level heading large text size |
+|` <H6> . . . </H6> `| Sixth-level heading small text size |
+|`<P> . . . </P>`|**Paragraph** You need to use this tag to make a new paragraph.|
+|`<BR>`|**Line Break** This tag will show a blank line.|
 
 
 
