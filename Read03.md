@@ -23,7 +23,10 @@ Browsers do not display the HTML tags, but use them to interpret the content of 
 
 1. line containing HTML version information.
 2. head a declarative header section.
-3. body which contains the document's actual content. 
+3. body which contains the document's actual content.
+    - header
+    - main
+    - footer
 
 
 ## Example :
@@ -40,11 +43,18 @@ Browsers do not display the HTML tags, but use them to interpret the content of 
 </HTML>
 ```
 
-## Commands With Syntax :
+## Commonly Used HTML Tags :
 
-| Command | Syntax |
+| **Tags** | **Use** |
 | ----------- | ----------- |
-| X | `X ` |
+| <HTML>. . . </HTML> | The entire HTML document |
+| <HEAD> . . . </HEAD> | 	The head of the HTML document |
+| <BODY> . . . </BODY> | All the other content in the HTML document |
+| <TITLE> . . . </TITLE> | 	The title of the document |
+| <H1> . . . </H1> | First-level heading large text size |
+| <H6> . . . </H6> | Sixth-level heading small text size |
+|<P> . . . </P>|**Paragraph** You need to use this tag to make a new paragraph.|
+|<BR>|**Line Break** This tag will show a blank line.|
 
 
 
