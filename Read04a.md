@@ -15,7 +15,7 @@ JavaScript is one of the 3 languages all web developers must learn:
    3. **JavaScript** to program the behavior of web pages
 
 
-![js](https://i.redd.it/tjlpqypllsz31.jpg)
+![js](https://i.ibb.co/PMQBWTC/tjlpqypllsz31-removebg-preview.png)
 
 
 ## Example :
