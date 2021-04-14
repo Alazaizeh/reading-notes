@@ -37,11 +37,11 @@ if(iceCream === 'chocolate') {
 
 | Variable | Example |
 | ------------ | ------------ |
-|String| `var myVariable = 'Bob';`|
-|Number| 	`var  myVariable = 10;`|
-|Boolean| `	var myVariable = true;`|
-|Array| `let myVariable = [1,'Bob','Steve',10];`|
-|Object|`let myVariable = document.querySelector("h1");`|
+|String| "var myVariable = 'Bob';"|
+|Number| 	"var  myVariable = 10;"|
+|Boolean| "	var myVariable = true;"|
+|Array| "let myVariable = [1,'Bob','Steve',10];"|
+|Object|"let myVariable = document.querySelector("h1");"|
 
 
 
