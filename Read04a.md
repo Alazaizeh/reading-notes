@@ -1,5 +1,5 @@
 
-![Javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png)
+![Javascript](https://i.ibb.co/BsCTKJc/68747470733a2f2f75706c6f61642e.png)
 
 # What is JavaScript?
 
