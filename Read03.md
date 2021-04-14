@@ -5,6 +5,9 @@
 The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.
 
 
+## Why HTML?
+Browsers do not display the HTML tags, but use them to interpret the content of the page. HTML can embed programs written in a scripting language such as JavaScript which affect the behavior and content of web pages. Inclusion of CSS defines the look and layout of content.
+
 
 ## What is an HTML Element?
 
@@ -16,9 +19,6 @@ something about the information that sits between its opening and
 closing tags.
 
 `<tagname>Content goes here</tagname>`
-
-## Why HTML?
-Browsers do not display the HTML tags, but use them to interpret the content of the page. HTML can embed programs written in a scripting language such as JavaScript which affect the behavior and content of web pages. Inclusion of CSS defines the look and layout of content.
 
 ## HTML Structure :
 
