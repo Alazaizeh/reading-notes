@@ -23,7 +23,7 @@ To include strings, integers, characters and colours. This should include consid
 
 ## 3- CPU, Memory, Input & Output?
 
-![cpu](https://cdn1.iconfinder.com/data/icons/computer-hardware-531/64/Processor-chip-cpu-memory-ram-512.png)
+![cpu](https://i.ibb.co/wpGnSWX/Webp-net-resizeimage-2.png)
 
 - **CPU** – or Central Processing Unit is considered the most important component in a computer and for good reason. It handles most operations that make it function, by processing instructions and giving signals out to other components. The CPU is the main bridge between all the computer’s major parts.
 - **RAM** – Random Access Memory, or RAM for short, is a computer component where data used by the operating system and software applications store data so that the CPU can process them quickly. Everything stored on RAM is lost if the computer is shut off. Depending on the applications you use, there is typically a maximum limit of RAM you will need for the computer to function properly.
