@@ -36,7 +36,7 @@ if(iceCream === 'chocolate') {
 ## JavaScript Data Types: 
 
 | Variable | Example |
-| ---------------------- | ---------------------- |
+| ------------ | ------------ |
 |String| `var myVariable = 'Bob';`|
 |Number| 	`var  myVariable = 10;`|
 |Boolean| `	var myVariable = true;`|
