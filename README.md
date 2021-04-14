@@ -2,6 +2,7 @@
 - [Read 01](https://omx302.github.io/reading-notes/Read01)
 - [Read 02](https://omx302.github.io/reading-notes/Read02)
 - [Read 03](https://omx302.github.io/reading-notes/Read03)
+- [Read 04a](https://omx302.github.io/reading-notes/Read04a)
 
 # The Growth Mindset
 ![alt text](https://i.ibb.co/j3GbJW0/9f524-brain-2062057-960-720-removebg-preview.png)
