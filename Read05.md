@@ -50,8 +50,16 @@ for (i = 0; i < 5; i++) {
 ```
 # While Loop
 
+## Syntax
 ```
-for (statement 1; statement 2; statement 3) {
+while (condition) {
   // code block to be executed
+}
+```
+## Example
+```
+while (i < 10) {
+  text += "The number is " + i;
+  i++;
 }
 ```
