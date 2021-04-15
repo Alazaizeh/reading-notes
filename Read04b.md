@@ -1,5 +1,5 @@
 # How Computers Work 
-![computer](https://i.ibb.co/0Vj4hww/cvxym3.jpg)
+![computer](https://i.ibb.co/wB78C4g/Webp-net-resizeimage-3.png)
 
 A **Computer** is a machine composed of hardware and software components. A computer receives data through an input unit based on the instructions it is given and after it processes the data, it sends it back through an output device. How does this come together to make the computer work?
 
