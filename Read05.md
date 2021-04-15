@@ -35,22 +35,42 @@ Comparison operators allow us to assert the equality of a statement with JavaScr
 
 
 # For Loop
+For loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
+
+## Why For Loops?
+
+1. Like all loops, "for loops" execute blocks of code over and over again.
+
+2. The advantage to a for loop is we know exactly how many times the loop will execute before the loop starts.
+
+3. Generic Syntax.
 
 ## Syntax
+A for statement looks as follows:
 ```
 for (statement 1; statement 2; statement 3) {
   // code block to be executed
 }
 ```
 ## Example
+
 ```
 for (i = 0; i < 5; i++) {
   text += "The number is " + i + "<br>";
 }
 ```
 # While Loop
+While statement executes its statements as long as a specified condition evaluates to true
+
+
+## Why while Loops?
+1. Like all loops, "while loops" execute blocks of code over and over again.
+2. The advantage to a while loop is that it will go (repeat) as often as necessary to accomplish its goal.
+3. Generic Syntax.
+4. Infinite loops.
 
 ## Syntax
+A while statement looks as follows:
 ```
 while (condition) {
   // code block to be executed
