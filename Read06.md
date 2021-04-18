@@ -1,6 +1,6 @@
 ![Javascript](https://i.ibb.co/BsCTKJc/68747470733a2f2f75706c6f61642e.png)
 
-# Web Page Structure?
+# Web Page Structure
 JavaScript is one of the 3 languages all web developers must learn:
 
 1. HTML to define the content of web pages
@@ -24,12 +24,12 @@ JavaScript is one of the 3 languages all web developers must learn:
 
 
 
-# What is a Function?
+# Functions
 Functions let you group a series of statements together to perform a
 specific task. If different parts of a script repeat the same task, you can
 reuse the function rather than repeating the same set of statements. 
 
-# Why Functions?
+## Why Functions?
 1. You can reuse code: Define the code once, and use it many times.
 
 2. You can use the same code many times with different arguments, to produce different results.
@@ -59,6 +59,8 @@ var x = myFunction(4, 3);   // Function is called, return value will end up in x
 ```
 
 ## Helpful resources:
-[JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
-[Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-[JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [JavaScript Functions](https://www.w3schools.com/js/js_functions.asp)
+
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+- [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
