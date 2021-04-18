@@ -40,9 +40,7 @@ For loop repeats until a specified condition evaluates to false. The JavaScript 
 ## Why For Loops?
 
 1. Like all loops, "for loops" execute blocks of code over and over again.
-
 2. The advantage to a for loop is we know exactly how many times the loop will execute before the loop starts.
-
 3. Generic Syntax.
 
 ## Syntax
