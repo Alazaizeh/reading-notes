@@ -1,14 +1,16 @@
 # Table of content
-- [Read 01](https://omx302.github.io/reading-notes/Read01)
-- [Read 02](https://omx302.github.io/reading-notes/Read02)
-- [Read 03](https://omx302.github.io/reading-notes/Read03)
-- [Read 04A](https://omx302.github.io/reading-notes/Read04a)
-- [Read 04B](https://omx302.github.io/reading-notes/Read04b)
-- [Read 05](https://omx302.github.io/reading-notes/Read05)
-- [Read 06](https://omx302.github.io/reading-notes/Read06)
-- [Read 07](https://omx302.github.io/reading-notes/Read07)
-- [Read 09](https://omx302.github.io/reading-notes/Read09)
-
+* 102 reading-notes:
+  - [Read 01](https://omx302.github.io/reading-notes/Read01)
+  - [Read 02](https://omx302.github.io/reading-notes/Read02)
+  - [Read 03](https://omx302.github.io/reading-notes/Read03)
+  - [Read 04A](https://omx302.github.io/reading-notes/Read04a)
+  - [Read 04B](https://omx302.github.io/reading-notes/Read04b)
+  - [Read 05](https://omx302.github.io/reading-notes/Read05)
+  - [Read 06](https://omx302.github.io/reading-notes/Read06)
+  - [Read 07](https://omx302.github.io/reading-notes/Read07)
+  - [Read 09](https://omx302.github.io/reading-notes/Read09)
+* 201 reading-notes :
+  - [Read 01](https://omx302.github.io/reading-notes/Read201-01)
 # The Growth Mindset
 ![alt text](https://i.ibb.co/j3GbJW0/9f524-brain-2062057-960-720-removebg-preview.png)
 
