@@ -11,6 +11,8 @@
   - [Read 09](https://omx302.github.io/reading-notes/Read09)
 * 201 reading-notes :
   - [Read 01](https://omx302.github.io/reading-notes/class-01)
+  - [Read 02](https://omx302.github.io/reading-notes/class-02)
+
 # The Growth Mindset
 ![alt text](https://i.ibb.co/j3GbJW0/9f524-brain-2062057-960-720-removebg-preview.png)
 
