@@ -1,4 +1,4 @@
-![html](https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png)
+![htmlcss](https://i.ibb.co/JQnNcFF/1-l4x-ICb-IIYlz1-OTym-WCo-UTw-removebg-preview.png)
 
 ## What is HTML?
 
@@ -121,6 +121,45 @@ element as possible.
 The clear property allows you
 to say that no element
 should touch the left or righthand sides of a box.
+
+# Javascript Functions
+
+Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can
+reuse the function rather than repeating the same set of statements.
+
+## Why Functions?
+
+1. You can reuse code: Define the code once, and use it many times.
+
+2. You can use the same code many times with different arguments, to produce different results.
+
+## Syntax
+
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+
+Function names can contain letters, digits, underscores, and dollar signs same as variables.
+
+The parentheses may include parameter names separated by commas:
+(parameter1, parameter2, ...)
+
+The code to be executed, by the function, is placed inside curly brackets: {}
+
+```
+function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+}
+```
+
+## Example
+
+```
+function myFunction(a, b) {
+  return a * b;             // Function returns the product of a and b
+}
+
+var x = myFunction(4, 3);   // Function is called, return value will end up in x
+```
 
 ## Helpful resources:
 
