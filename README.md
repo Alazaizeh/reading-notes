@@ -1,5 +1,5 @@
 # Table of content
-* 102 **reading-notes** :
+* **102 reading-notes** :
   - [Read 01](https://omx302.github.io/reading-notes/Code102/Read01)
   - [Read 02](https://omx302.github.io/reading-notes/Code102/Read02)
   - [Read 03](https://omx302.github.io/reading-notes/Code102/Read03)
