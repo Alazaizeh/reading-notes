@@ -1,4 +1,4 @@
-![note](https://library.kissclipart.com/20180922/tee/kissclipart-study-notes-clipart-test-study-skills-clip-art-e449c8c59493291d.png)
+![note](https://i.ibb.co/FXxvfx8/rsz-kissclipart-study-notes-clipart-test-study-skills-clip-art-e449c8c59493291d.png)
 
 # Table of content
 * **102 reading-notes** :
