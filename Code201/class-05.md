@@ -57,6 +57,7 @@ PNG images mainly have two modes — PNG8 and PNG24. PNG8 can support upto 256 c
 
 ## Colors
 
+![color](https://www.w3schools.com/colors/img_colormap.gif)
 ### Colors methods:
 
 - **Hexadecimal colors :** Hex values represent values for red, green, and blue in hexadecimal code.
