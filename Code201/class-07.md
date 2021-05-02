@@ -2,16 +2,15 @@
 A table represents information in a grid format.
 
 ## Example:
-Markdown table
-| Element | Markdown Syntax |
+git Commands With Syntax 
+
+| Command | Syntax |
 | ----------- | ----------- |
-| Heading | `# H1 ## H2 ### H3` |
-|Bold	| `**bold text**`|
-|Italic	|`*italicized text*`|
-|Blockquote|	`> blockquote`|
-|Task List	|`- [x] task`|
-|Link|`	[title](https://www.example.com)`|
-|Image	|`![alt text](image.jpg)`|
+| Add | `git add [file] ` |
+| Commit	| `git commit -m “[ Type in the commit message]”` |
+| Status | `git status ` |
+| Rm| `git rm [file]` |
+| Push|`git push [variable name] master  `|
 
 ## Basic Table Structure
 
