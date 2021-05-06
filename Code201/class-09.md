@@ -19,6 +19,15 @@ The HTML `<form>` element is used to create an HTML form for user input:
                 </fieldset>
 </form>
 ```
+## Form Controls
+* Adding Text
+* Making Choices
+* Submitting Forms
+* Uploading Files
+* 
+## Label
+The `<label>` tag defines a label for many form elements.
+
 ## Input :
 An `<input> `element can be displayed in many ways, depending on the type attribute.
 
@@ -29,5 +38,23 @@ An `<input> `element can be displayed in many ways, depending on the type attrib
 * `<input type="submit">	`
 * `<input type="button">	`
 
+
 # Lists, Tables & Forms
+
+## Lists Style 
+* Bullet Point Styles : `list-style-type`
+* Images for Bullets : `list-style-image`
+* Positioning the Marker : `list-style-position`
+
+## Table Properties
+
+* width
+* padding
+* text-transform
+* letter-spacing
+* font-size
+* border-top, border-bottom
+* text-align
+* background-color
+
 # Events
