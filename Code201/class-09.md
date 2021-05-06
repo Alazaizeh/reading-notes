@@ -93,7 +93,7 @@ Event handlers can be used to handle and verify user input, user actions, and br
 |onload|The browser has finished loading the page|
 
 ## Helpfull Resources
-[Your First Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
-[HTML Table](https://www.w3schools.com/html/html_tables.asp)
-[DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+* [Your First Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+* [HTML Table](https://www.w3schools.com/html/html_tables.asp)
+* [DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
