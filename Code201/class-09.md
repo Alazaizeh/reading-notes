@@ -57,4 +57,22 @@ An `<input> `element can be displayed in many ways, depending on the type attrib
 * text-align
 * background-color
 
+## Styling Forms
+1. Styling Text Inputs
+    * font-size
+    * color
+    * background-color
+    * border
+    * background-image
+2. Styling Submit Buttons
+    * color
+    * text-shadow
+    * border-bottom
+    * background-color
+3. Styling Fieldsets & Legends
+    * width
+    * color
+    * background-color
+    * border
+    * padding
 # Events
