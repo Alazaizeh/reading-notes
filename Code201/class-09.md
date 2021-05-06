@@ -7,5 +7,27 @@
 3. **JavaScript** to program the behavior of web pages
 
 # Forms
+The HTML `<form>` element is used to create an HTML form for user input:
+```
+<form>
+                <fieldset>
+                    <legend>Add New Branch</legend>
+
+                    <label for="location">Location: </label>
+                    
+                    <input id="location" name="location" type="text" required />
+                </fieldset>
+</form>
+```
+## Input :
+An `<input> `element can be displayed in many ways, depending on the type attribute.
+
+
+* `<input type="text">	`
+* `<input type="radio">	`
+* `<input type="checkbox">	`
+* `<input type="submit">	`
+* `<input type="button">	`
+
 # Lists, Tables & Forms
 # Events
