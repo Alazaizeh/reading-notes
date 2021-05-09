@@ -15,11 +15,11 @@ Every statement in a script lives in one of three execution contexts:
 
 ## EXECUTION CONTEXT & HOISTING
 Each time a script enters a new execution context, there are two phases of activity:
-1. PREPARE
+1. Prepare:
      * The new scope is created
      * Variables, functions, and arguments are created
      * The value of the this keyword is determined
-2. EXECUTE
+2. Execute:
      * Now it can assign values to variables
      * Reference functions and run their code
      * Execute statements
