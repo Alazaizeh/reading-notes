@@ -52,7 +52,8 @@ var myChart = new Chart(ctx, {
 });
 </script>
 ```
-
+## License
+Chart.js is available under the [MIT license](https://opensource.org/licenses/MIT) .
 # canvas
 At first sight a `<canvas>` looks like the` <img>` element, with the only clear difference being that it doesn't have the src and alt attributes.Indeed, the `<canvas>` element has only two attributes, `width` and` height` and These are both optional .
 ``` 
