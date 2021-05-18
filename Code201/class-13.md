@@ -18,5 +18,10 @@ if (typeof(Storage) !== "undefined") {
   // Sorry! No Web Storage support..
 }
 ```
+## Set Item
+`localStorage.setItem("lastname", "Smith"); `
+## Get Item
+`localStorage.getItem("lastname"); `
+
 ## Helpful resource:
 * [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE](http://diveinto.html5doctor.com/storage.html)
