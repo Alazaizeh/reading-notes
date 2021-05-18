@@ -62,3 +62,9 @@ At first sight a `<canvas>` looks like the` <img>` element, with the only clear 
 ## What is Canvas?
 The HTML `<canvas>` element is used to draw graphics, on the fly, via scripting The `<canvas>` element is only a container for graphics. You must use a script to actually draw the graphics.Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
 
+## Helpfull re
+[Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+[Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+[Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+[Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+[chart.js](https://www.chartjs.org/)
