@@ -134,3 +134,9 @@ Fortunately animations, just like transitions, can be written out in a shorthand
   animation: slide 2s ease-in-out .5s infinite alternate;
 }
 ```
+
+
+## Helpful resource:
+* [Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+* [Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+* [8 SIMPLE CSS3 TRANSITIONS](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
