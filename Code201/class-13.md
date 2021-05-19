@@ -22,6 +22,7 @@ if (typeof(Storage) !== "undefined") {
 `localStorage.setItem("lastname", "Smith"); `
 ## Get Item
 `localStorage.getItem("lastname"); `
-
+## Remove Item
+`localStorage.removeItem("lastname"); `
 ## Helpful resource:
 * [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE](http://diveinto.html5doctor.com/storage.html)
