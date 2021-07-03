@@ -2,7 +2,6 @@
 # React
 
 ## Node:
-### An Introduction to Node.js on sitepoint.com
 ### What is node.js?
 ### In your own words, what is Chrome’s V8 JavaScript Engine?
 ### What does it mean that node is a JavaScript runtime?
