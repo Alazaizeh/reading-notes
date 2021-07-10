@@ -19,6 +19,7 @@ LinkedIn
 NoSQL
 ### Which type of database is best for scalability?
 NoSQL
+
 ![sql](https://sometkip.files.wordpress.com/2018/02/download.png?w=600)
 
 # sql vs nosql 
@@ -33,6 +34,12 @@ The database schema is its structure described in a formal language supported by
 ### What is a NoSQL database?
 A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
 ### How does it work?
+ NoSQL is an approach to databases that represents a shift away from traditional relational database management systems (RDBMS). To define NoSQL, Relational databases rely on tables, columns, rows, or schemas to organize and retrieve data. In contrast, NoSQL databases do not rely on these structures and use more flexible data models
 ### What is inside of a Mongo database?
+MongoDB stores data records as documents (specifically BSON documents) which are gathered together in collections.
 ### Which is more flexible - SQL or MongoDB? and why.
+Data in MongoDB has a flexible schema. Collections do not enforce document structure by default. This flexibility gives you data-modeling choices to match your application and its performance requirements.
 ### What is the disadvantage of a NoSQL database?
+1. NoSQL databases don’t have the reliability functions which Relational Databases have
+2. NoSQL is not compatible (at all) with SQL.
+3. NoSQL are very new compared to Relational Databases, which means that are far less stable and may have a lot less functionalities.
