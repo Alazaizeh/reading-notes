@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/30804087/125169750-413fdf80-e1b4-11eb-8d9c-8313f1513960.png)
+
 |                  | SQL                                                              | NoSQL                                                                          |
 |------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Definition       | SQL databases are primarily called RDBMS or Relational Databases | NoSQL databases are primarily called as Non-relational or distributed database |
