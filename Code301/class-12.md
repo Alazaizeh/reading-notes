@@ -20,7 +20,7 @@ NoSQL
 ### Which type of database is best for scalability?
 NoSQL
 
-![sql](https://sometkip.files.wordpress.com/2018/02/download.png?w=600)
+![sqlPic](https://sometkip.files.wordpress.com/2018/02/download.png?w=600)
 
 # sql vs nosql 
 ### What does SQL stand for?
