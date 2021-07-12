@@ -1,16 +1,26 @@
-![image](https://posabilities.co.uk/wp-content/uploads/2017/10/SSL-1.png)
+![image](http://lofrev.net/wp-content/photos/2017/04/http_logo_dpwnload-250x150.png)
 
 ### In your own words, describe what each group of status code represents:
 #### 100’s =
-#### 200’s =
+These are informational status codes; they usually tell the client that the header part of the request has been received and the server will try to comply with a transmission demand of the client.
+#### 200’s = 
+These are the success codes. They tell the client that its request was accepted
 #### 300’s =
+These are redirection codes. They tell the client that the resource they are requesting isn’t available at the expected location anymore. 
 #### 400’s =
-#### 500’s =
+These are the client error codes. They are all about invalid requests a client sent to a server. 
+#### 500’s 
+These are the server error codes. Often they indicate problems with overwhelmed servers or unreachable servers behind proxies, but sometimes they can be directly related to client requests that trigger error exceptions on the server.=
 ### What is a status code 202?
+202 Accepted - Often used for asynchronous processing. This code tells the client that the request was valid, but its processing will finish sometime in the future. 
 ### What is a status code 308?
+308 Permanent Redirect - This tells the client to use another URL to access the resource and not use the current URL anymore. 
 ### What code would you use if an update didn’t return data to a client?
+204 No Content - A proper code for updates that don’t return data to the client, for example when just saving a currently edited document.
 ### What code would you use if a resource used to exist but no longer does?
+308 Permanent Redirect - This tells the client to use another URL to access the resource and not use the current URL anymore.
 ### What is the ‘Forbidden’ status code?
+403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.
 
 ![image](https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png)
 
