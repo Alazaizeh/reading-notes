@@ -25,10 +25,18 @@ These are the server error codes. Often they indicate problems with overwhelmed 
 ![image](https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png)
 
 ### Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+To keep it secret
 ### What is middleware?
+Middleware is a type of computer software that provides services to software applications beyond those available from the operating system.
 ### What does app.use(express.json()) do?
+to recognize the incoming Request
 ### What does the /:id mean in a route?
+Route parameters are named URL segments that are used to capture the values specified at their position in the URL. The captured values are populated in the req.params object, with the name of the route parameter specified in the path as their respective keys.
 ### What is the difference beween PUT and PATCH?
+The main difference between the PUT and PATCH method is that the PUT method uses the request URI to supply a modified version of the requested resource which replaces the original version of the resource, whereas the PATCH method supplies a set of instructions to modify the resource.
 ### How do you make a defalut value in a schema?
+schemas can define default values for certain paths. If you create a new document without that path set, the default will kick in.
 ### What does a 500 error status code mean?
+500 means Internal Server Error, which can be anything from a missing header field the backend accessed without checking its existence to an unreachable third party service the backend wanted to call.
 ### What is the difference between a status 200 and a status 201?
+The 200 status code is by far the most common returned. It means, simply, that the request was received and understood and is being processed. A 201 status code indicates that a request was successful and as a result, a resource has been created
