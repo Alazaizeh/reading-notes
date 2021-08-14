@@ -1,3 +1,4 @@
+![header](https://pcgservices.com/wp-content/uploads/2018/10/high_technology_industry.png)
 ## Solving Problems
 A simple set of steps
 1. Read the problem completely twice.
