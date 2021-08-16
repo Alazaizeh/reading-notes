@@ -43,7 +43,7 @@ REST is easier to use for the most part and is more flexible. It has the followi
 
 | Term | Description |
 | --- | ----------- |
-| Web Server | Title |
-| Express | Text |
-| Routing | Title |
-| WRRC | Text |
+| Web Server | On the software side, a web server includes several parts that control how web users access hosted files. At a minimum, this is an HTTP server. An HTTP server is software that understands URLs (web addresses) and HTTP (the protocol your browser uses to view webpages). An HTTP server can be accessed through the domain names of the websites it stores, and it delivers the content of these hosted websites to the end user's device. |
+| Express | Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. |
+| Routing | Routing refers to how an application’s endpoints (URIs) respond to client requests |
+| WRRC | Web request response cycle, details how information moves between client/server |
