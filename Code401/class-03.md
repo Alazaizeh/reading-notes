@@ -14,10 +14,10 @@
    when submit twice the same request
 |Term|Description|
 |----|----|
-|Middleware||
-|Request Object||
-|Response Object||
-|Application Middleware||
-|Routing Middleware||
-|Test Driven Development||
-|Behavioral Testing||
+|Middleware|Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.|
+|Request Object|The req object represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on|
+|Response Object|The res object represents the HTTP response that an app sends when it gets an HTTP request.|
+|Application Middleware|Bind application-level middleware to an instance of the app object by using the app.use() and app.METHOD() functions|
+|Routing Middleware|Router-level middleware works in the same way as application-level middleware, except it is bound to an instance of express.Router().|
+|Test Driven Development|Test-driven development is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases.|
+|Behavioral Testing|Behavioural Testing is a testing of the external behaviour of the program, also known as black box testing. It is usually a functional testing.|
