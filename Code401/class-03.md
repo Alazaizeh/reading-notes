@@ -12,7 +12,8 @@
    After receiving the request .
 ### 5. What can cause express to error with “Request headers sent twice, cannot start a second response”
    when submit twice the same request.
-   
+### 6. Document the following Vocabulary Terms
+
 |Term|Description|
 |----|----|
 |Middleware|Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.|
