@@ -11,7 +11,8 @@
 ### 4. At what point in the request lifecycle can you “inject” middleware?
    After receiving the request .
 ### 5. What can cause express to error with “Request headers sent twice, cannot start a second response”
-   when submit twice the same request
+   when submit twice the same request.
+   
 |Term|Description|
 |----|----|
 |Middleware|Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system. Data management, application services, messaging, authentication, and API management are all commonly handled by middleware.|
