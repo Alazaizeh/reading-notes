@@ -14,6 +14,8 @@ Class defines a type which can be instantiated at runtime, whereas a prototype i
 ### Why REST?
 One of the key advantages of REST APIs is that they provide a great deal of flexibility. Data is not tied to resources or methods, so REST can handle multiple types of calls
 
+### Document the following Vocabulary Terms
+
 |Term|Description|
 |----|----|
 |functional programming| a programming paradigm where programs are constructed by applying and composing functions. |
