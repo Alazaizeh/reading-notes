@@ -1,5 +1,6 @@
 ![api](https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2020-10/Authentication_vs_Authorization.png?itok=uBFRCfww)
 ### When is Basic Authorization used vs. Bearer Authorization?
+The Basic and Digest authentication schemes are dedicated to the authentication using a username and a secret The Bearer authentication scheme is dedicated to the authentication using a token.
 ### What does the JSON Web Token package do?
 defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 ### What considerations should we make when creating and storing a SECRET
