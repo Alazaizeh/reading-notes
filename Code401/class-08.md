@@ -11,6 +11,8 @@ defines a compact and self-contained way for securely transmitting information b
 - Store Secrets Responsibly. 
 - Detect Unauthorized Access.
 
+### Document the following Vocabulary Terms
+
 |Term|Description|
 |----|----|
 |encryption|Encryption is the process of taking plain text, like a text message or email, and scrambling it into an unreadable format — called “cipher text.”|
