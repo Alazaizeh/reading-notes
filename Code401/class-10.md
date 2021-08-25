@@ -3,13 +3,14 @@
 ### what is Stacks?
  a stack is an abstract data type that serves as a collection of elements, with two main principal operations: Push, which adds an element to the collection, and Pop, which removes the most recently added element
  ### what is Queues ?
-A queue is an ordered collection of items where the addition of new items happens at one end, called the “rear,” and the removal of existing items occurs at the other end, commonly called the “front.”
+Queue is an ordered collection of items where the addition of new items happens at one end, called the “rear,” and the removal of existing items occurs at the other end, commonly called the “front.”
 
 ### What are Queues used for?
 Queue, as the name suggests is used whenever we need to manage any group of objects in an order in which the first one coming in, also gets out first while the others wait for their turn.
 
 ### What are Stacks used for?
 Stacks are used to implement functions, parsers, expression evaluation, and backtracking algorithms. A pile of books, a stack of dinner plates, a box of pringles potato chips can all be thought of examples of stacks. The basic operating principle is that last item you put in is first item you can take out.
+
 
 
 ### what is the difference between queues and Stacks?
