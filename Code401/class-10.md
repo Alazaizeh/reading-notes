@@ -12,17 +12,6 @@ Queue, as the name suggests is used whenever we need to manage any group of obje
 Stacks are used to implement functions, parsers, expression evaluation, and backtracking algorithms. A pile of books, a stack of dinner plates, a box of pringles potato chips can all be thought of examples of stacks. The basic operating principle is that last item you put in is first item you can take out.
 
 
-
-### What are advantages of linked list?
-  - Dynamic Data Structure. Linked list is a dynamic data structure so it can grow and shrink at runtime by allocating and deallocating memeory. ...
-  Insertion and Deletion.
-  - Insertion and deletion of nodes are really easier. 
-  - No Memory Wastage. 
-  - Implementation. 
-  - Memory Usage.
-  - Traversal. 
-  - Reverse Traversing
-  
 ### what is the difference between queues and Stacks?
 Stacks are based on the LIFO principle, i.e., the element inserted at the last, is the first element to come out of the list. 
 
