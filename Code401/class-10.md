@@ -16,5 +16,4 @@ Stacks are used to implement functions, parsers, expression evaluation, and back
 Stacks are based on the LIFO principle, i.e., the element inserted at the last, is the first element to come out of the list. 
 
 Queues are based on the FIFO principle, i.e., the element inserted at the first, is the first element to come out of the list. 
-
 In queues we maintain two pointers to access the list.
