@@ -1,43 +1,31 @@
-![Javascript](https://i.ibb.co/BsCTKJc/68747470733a2f2f75706c6f61642e.png)
+# Stacks and Queues
+![linked](https://4cawmi2va33i3w6dek1d7y1m-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Computer-science-fundamentals_6.1.png)
+### what is Stacks?
+ a stack is an abstract data type that serves as a collection of elements, with two main principal operations: Push, which adds an element to the collection, and Pop, which removes the most recently added element
+ ### what is Queues ?
+A queue is an ordered collection of items where the addition of new items happens at one end, called the “rear,” and the removal of existing items occurs at the other end, commonly called the “front.”
 
-# Understanding the JavaScript Call Stack
-### What is a ‘call’?
-The call stack is primarily used for function invocation (call)
-### How many ‘calls’ can happen at once?
-one at a time
-### What does LIFO mean?
-Last In, First Out:it means that the last function that gets pushed into the stack is the first to be pop out, when the function returns.
-### Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-```
-function firstFunction(){
-  throw new Error('Stack Trace Error');
-}
+### What are Queues used for?
+Queue, as the name suggests is used whenever we need to manage any group of objects in an order in which the first one coming in, also gets out first while the others wait for their turn.
 
-function secondFunction(){
-  firstFunction();
-}
+### What are Stacks used for?
+Stacks are used to implement functions, parsers, expression evaluation, and backtracking algorithms. A pile of books, a stack of dinner plates, a box of pringles potato chips can all be thought of examples of stacks. The basic operating principle is that last item you put in is first item you can take out.
 
-function thirdFunction(){
-  secondFunction();
-}
 
-thirdFunction();
-```
-### What causes a Stack Overflow?
-A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
-# JavaScript error messages
-### What is a ‘refrence error’?
-This is as simple as when you try to use a variable that is not yet declared you get this type os errors.
-### What is a ‘syntax error’?
-I know it’s in the name of the errors, but like it says itself, this occurs when you have something that cannot be parsed in terms of syntax, like when you try to parse an invalid object using JSON.parse.
-### What is a ‘range error’?
-Try to manipulate an object with some kind of length and give it an invalid length and this kind of errors will show up.
-### What is a ‘tyep error’?
-Like the name indicates, this types of errors show up when the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
-### What is a breakpoint?
-breakpoint make your program stop at that point only if a condition is met, this is awesome for when you want to debug huge cycles for specific values
-### What does the word ‘debugger’ do in your code?
-breakpoint can be achieved by putting a debugger statement in code in the line you want to break.
-## Helpful resources:
-- [JavaScript error messages && debugging](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
-- [The JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+
+### What are advantages of linked list?
+  - Dynamic Data Structure. Linked list is a dynamic data structure so it can grow and shrink at runtime by allocating and deallocating memeory. ...
+  Insertion and Deletion.
+  - Insertion and deletion of nodes are really easier. 
+  - No Memory Wastage. 
+  - Implementation. 
+  - Memory Usage.
+  - Traversal. 
+  - Reverse Traversing
+  
+### what is the difference between queues and Stacks?
+Stacks are based on the LIFO principle, i.e., the element inserted at the last, is the first element to come out of the list. 
+
+Queues are based on the FIFO principle, i.e., the element inserted at the first, is the first element to come out of the list. 
+
+In queues we maintain two pointers to access the list.
