@@ -28,5 +28,6 @@ yes if we use two different ports. Or if the sockets won’t be using the same p
 |Emit/Raise/Trigger|We trigger the emitter via the emit() method, which pushes the event with the information we've provided.|
 |Subscribe|To receive messages sent to a particular channel, you subscribe to it.|
 |database|A database is an organized collection of structured information, or data, typically stored electronically in a computer system|
+
 #### Helpful resources
 [Node docs: events](https://nodejs.org/api/events.html )
