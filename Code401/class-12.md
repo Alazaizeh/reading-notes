@@ -1,46 +1,32 @@
-![image](https://user-images.githubusercontent.com/30804087/125169750-413fdf80-e1b4-11eb-8d9c-8313f1513960.png)
+## Socket.io
+Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers.
 
-|                  | SQL                                                              | NoSQL                                                                          |
-|------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Definition       | SQL databases are primarily called RDBMS or Relational Databases | NoSQL databases are primarily called as Non-relational or distributed database |
-| Ability to scale | SQL databases are vertically scalable                            | NoSQL databases are horizontally scalable                                      |
-| Examples         | Oracle, Postgres, and MS-SQL.                                    | MongoDB, Redis, Neo4j, Cassandra, Hbase.                                       |
-| Type             | SQL databases are table based databases                          | NoSQL databases can be document based, key-value pairs, graph databases        |
-| language         | Structured query language                                        | Unstructured Query Language                                                    |
-# nosql vs sql
-### What kind of data is a good fit for an SQL database?
-SQL databases are not best fit for hierarchical data storage
-### Give a real world example.
-Order management system database
-### What kind of data is a good fit a NoSQL database?
-hierarchical data storage as it follows the key-value pair way of storing data similar to JSON data
-### Give a real world example.
-LinkedIn
-### Which type of database is best for hierarchical data storage?
-NoSQL
-### Which type of database is best for scalability?
-NoSQL
+![api](https://www.technologyuk.net/computing/software-development/software-design/images/event_driven_01.gif)
 
-![sqlPic](https://sometkip.files.wordpress.com/2018/02/download.png?w=600)
+### What is the benefit of transforming data into packets?
+ To meet the demands of pervasive data-centric applications and services
+### UDP is often refereed to as a connectionless protocol. Why is this?
+UDP is a connectionless protocol. It is known as a datagram protocol because it is analogous to sending a letter where you don't acknowledge receipt.
+### Can a socket server application have multiple socket connections?
+Yes as long as they are associated with different client-side
+### Can a socket connection application be connected to multiple socket servers?
+No,A server socket listens on a single port. ... Multiple connections on the same server can share the same server-side IP/Port pair as long as they are associated with different client-side IP/Port pairs
+### Can an application be both a socket server and a socket connection?
+yes if we use two different ports. Or if the sockets won’t be using the same port at the same time.
 
-# sql vs nosql 
-### What does SQL stand for?
-Structured Query Language
-### What is a realational database?
-A relational database is a digital database based on the relational model of data.
-### What type of structure does a relational database work with?
-Relational Model. 
-### What is a ‘schema’?
-The database schema is its structure described in a formal language supported by the database management system. The term "schema" refers to the organization of data as a blueprint of how the database is constructed.
-### What is a NoSQL database?
-A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
-### How does it work?
- NoSQL is an approach to databases that represents a shift away from traditional relational database management systems (RDBMS). To define NoSQL, Relational databases rely on tables, columns, rows, or schemas to organize and retrieve data. In contrast, NoSQL databases do not rely on these structures and use more flexible data models
-### What is inside of a Mongo database?
-MongoDB stores data records as documents (specifically BSON documents) which are gathered together in collections.
-### Which is more flexible - SQL or MongoDB? and why.
-Data in MongoDB has a flexible schema. Collections do not enforce document structure by default. This flexibility gives you data-modeling choices to match your application and its performance requirements.
-### What is the disadvantage of a NoSQL database?
-1. NoSQL databases don’t have the reliability functions which Relational Databases have
-2. NoSQL is not compatible (at all) with SQL.
-3. NoSQL are very new compared to Relational Databases, which means that are far less stable and may have a lot less functionalities.
+### Document the following Vocabulary Terms
+
+|Term|Description|
+|----|----|
+|Observer Pattern|The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods|
+|Listener| a listen socket that has an Internet Protocol (IP) address|
+|Event Handler| used to handle and verify user input, user actions, and browser actions|
+|Event Driven Programming|event-driven programming is a programming paradigm in which the flow of the program is determined by events|
+|Event Loop|a programming construct or design pattern that waits for and dispatches events or messages in a program.|
+|Event Queue| a repository where events from an application are held prior to being processed by a receiving program or system.|
+|Call Stack| is a stack data structure that stores information about the active subroutines of a computer program. This kind of stack is also known as an execution stack, program stack, control stack, run-time stack, or machine stack|
+|Emit/Raise/Trigger|We trigger the emitter via the emit() method, which pushes the event with the information we've provided.|
+|Subscribe|To receive messages sent to a particular channel, you subscribe to it.|
+|database|A database is an organized collection of structured information, or data, typically stored electronically in a computer system|
+#### Helpful resources
+[Node docs: events](https://nodejs.org/api/events.html )
