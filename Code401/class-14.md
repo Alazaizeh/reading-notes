@@ -6,7 +6,7 @@
 ### What’s the difference between a FIFO and a standard queue?
 Standard queues guarantee that a message is delivered at least once and duplicates can be introduced into the queue. FIFO queues ensure a message is delivered exactly once and remains available until a consumer processes and deletes it
 ### How can the server be assured a message was properly received?
-via event-driven testing
+Wait for acknowledgement from the client as a response for reciving the message.
 ### What classic design pattern is best represented by event driven programming?
 Observer pattern.
 ### How do you test an event driven system?
