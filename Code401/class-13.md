@@ -1,42 +1,33 @@
-![image](http://lofrev.net/wp-content/photos/2017/04/http_logo_dpwnload-250x150.png)
+##  Message Queues
+A message queue is a queue of messages sent between applications. It includes a sequence of work objects that are waiting to be processed. ... Another application, called a consumer, connects to the queue and gets the messages to be processed. Messages placed onto the queue are stored until the consumer retrieves them.
 
-### In your own words, describe what each group of status code represents:
-#### 100’s =
-These are informational status codes; they usually tell the client that the header part of the request has been received and the server will try to comply with a transmission demand of the client.
-#### 200’s = 
-These are the success codes. They tell the client that its request was accepted
-#### 300’s =
-These are redirection codes. They tell the client that the resource they are requesting isn’t available at the expected location anymore. 
-#### 400’s =
-These are the client error codes. They are all about invalid requests a client sent to a server. 
-#### 500’s 
-These are the server error codes. Often they indicate problems with overwhelmed servers or unreachable servers behind proxies, but sometimes they can be directly related to client requests that trigger error exceptions on the server.=
-### What is a status code 202?
-202 Accepted - Often used for asynchronous processing. This code tells the client that the request was valid, but its processing will finish sometime in the future. 
-### What is a status code 308?
-308 Permanent Redirect - This tells the client to use another URL to access the resource and not use the current URL anymore. 
-### What code would you use if an update didn’t return data to a client?
-204 No Content - A proper code for updates that don’t return data to the client, for example when just saving a currently edited document.
-### What code would you use if a resource used to exist but no longer does?
-308 Permanent Redirect - This tells the client to use another URL to access the resource and not use the current URL anymore.
-### What is the ‘Forbidden’ status code?
-403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.
+![api](https://www.cloudamqp.com/img/blog/thumb-mq.jpg)
 
-![image](https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png)
+### What does it mean that web sockets are bidirectional? Why is this useful?
+BIDIRECTIONAL. Whereas HTTP relies on a client request to receive a response from the server for every exchange, WebSockets allow for full-duplex bidirectional communication. This enables the server to send real-time updates asynchronously, without requiring the client to submit a request each time.
+### Does socket.io use HTTP? Why?
+Even when websockets can be used, the initial connection setup it done over HTTP. Also, a socket.io server will attach to an HTTP server so it can serve its own client code through /socket.io/socket.io.js .
+### What happens when a client emits an event?
+The event gets passed to the server through websockets. Its a tcp connection from the browser to the server. The connection is full duplex meaning the server can send real time data to the client and vise versa.
+### What happens when a server emits an event?
+The event gets passed to the server through websockets. Its a tcp connection from the browser to the server. The connection is full duplex meaning the server can send real time data to the client and vise versa.
+### What happens if a client “misses” an event?
+it misses it.
+### How can we mitigate this?
+we can use a message queue to reprocessed the event.
 
-### Why do we need to pull our MongoDB database string out of our server and put it into our .env?
-To keep it secret
-### What is middleware?
-Middleware is a type of computer software that provides services to software applications beyond those available from the operating system.
-### What does app.use(express.json()) do?
-to recognize the incoming Request
-### What does the /:id mean in a route?
-Route parameters are named URL segments that are used to capture the values specified at their position in the URL. The captured values are populated in the req.params object, with the name of the route parameter specified in the path as their respective keys.
-### What is the difference beween PUT and PATCH?
-The main difference between the PUT and PATCH method is that the PUT method uses the request URI to supply a modified version of the requested resource which replaces the original version of the resource, whereas the PATCH method supplies a set of instructions to modify the resource.
-### How do you make a defalut value in a schema?
-schemas can define default values for certain paths. If you create a new document without that path set, the default will kick in.
-### What does a 500 error status code mean?
-500 means Internal Server Error, which can be anything from a missing header field the backend accessed without checking its existence to an unreachable third party service the backend wanted to call.
-### What is the difference between a status 200 and a status 201?
-The 200 status code is by far the most common returned. It means, simply, that the request was received and understood and is being processed. A 201 status code indicates that a request was successful and as a result, a resource has been created
+### Document the following Vocabulary Terms
+
+|Term|Description|
+|----|----|
+|Socket| A socket is one endpoint of a two-way communication link between two programs running on the network. |
+|Web Socket|ebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection|
+|Socket.io|Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers|
+|Client|A system that uses remote services from a server.|
+|Server|A system that provides services to other systems in its network.|
+|OSI Model|a conceptual framework used to describe the functions of a networking system|
+|TCP Model|It stands for Transmission Control Protocol/Internet Protocol. The TCP/IP model is a concise version of the OSI model. It contains four layers, unlike seven layers in the OSI model|
+|TCP|The Transmission Control Protocol is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol|
+|UDP|is a lightweight data transport protocol that works on top of IP. UDP provides a mechanism to detect corrupt data in packets, but it does not attempt to solve other problems that arise with packets|
+|Packets| is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data|
+
