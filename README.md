@@ -65,3 +65,8 @@
   - [Read 13](https://omx302.github.io/reading-notes/Code401/class-13)
   - [Read 14](https://omx302.github.io/reading-notes/Code401/class-14)
   - [Read 15](https://omx302.github.io/reading-notes/Code401/class-15)
+  - [Read 16](https://omx302.github.io/reading-notes/Code401/class-16)
+  - [Read 17](https://omx302.github.io/reading-notes/Code401/class-17)
+  - [Read 18](https://omx302.github.io/reading-notes/Code401/class-18)
+  - [Read 19](https://omx302.github.io/reading-notes/Code401/class-19)
+  - [Read 20](https://omx302.github.io/reading-notes/Code401/class-20)
