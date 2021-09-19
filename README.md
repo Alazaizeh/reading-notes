@@ -70,3 +70,8 @@
   - [Read 18](https://omx302.github.io/reading-notes/Code401/class-18)
   - [Read 19](https://omx302.github.io/reading-notes/Code401/class-19)
   - [Read 20](https://omx302.github.io/reading-notes/Code401/class-20)
+  - [Read 26](https://omx302.github.io/reading-notes/Code401/class-26)
+  - [Read 27](https://omx302.github.io/reading-notes/Code401/class-27)
+  - [Read 28](https://omx302.github.io/reading-notes/Code401/class-28)
+  - [Read 29](https://omx302.github.io/reading-notes/Code401/class-29)
+  - [Read 30](https://omx302.github.io/reading-notes/Code401/class-30)
